@@ -1,1 +1,7 @@
 # Tenancy-Database
+
+This is an Oracle SQL database project that I created as a class project. The database stores data for a property owner. It includes data regarding tenants, finances, contracts and properties. It involves both simple and complex operations on the data.  The operations that are shown in here include data definition language and data manipulation language. The operations include dropping tables, creating tables, dropping sequences, creating sequences, indexes, table alterations, simple and complex views (as well as dropping these views), various types of joins (inner, outer, full, left, right and so on), triggers, insertions, deletions, various SQL database meta data queries, formatting, mathematical queries (min, max, avg, sum, etc.) as well as complex database queries to utilize the data in a meaningful way (creating meaningful information for the user/property owner).
+
+The pdf is the formal write of the the project, including a literature review, assumptions made, design decisions, statement of work, requirements definition document, database design (entity relation diagram, DDL and DML source code and output, and database administration monitoring (among a few other minor things).
+
+I don't need help on this, but feel free to comment if you can add value. Otherwise, this is mainly here as a sample of what I am able to do for potential employers, as well as a reference for anyone on the internet who may need some examples of these SQL functionalities.
